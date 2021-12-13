@@ -1,0 +1,26 @@
+{
+  "name": "native-notification",
+  "version": "0.0.1",
+  "description": "copha base notification module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copha-project/native-notification.git"
+  },
+  "keywords": [
+    "copha",
+    "module"
+  ],
+  "author": "copha-project",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/copha-project/native-notification/issues"
+  },
+  "homepage": "https://github.com/copha-project/native-notification#readme",
+  "dependencies": {
+    "node-notifier": "^10.0.0"
+  }
+}
